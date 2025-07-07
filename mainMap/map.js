@@ -475,4 +475,4 @@ map.on("dragstart", function () {
 });
 
 fetchBusLocation();
-setInterval(fetchBusLocation, 10000);
+setInterval(fetchBusLocation, 5000);
